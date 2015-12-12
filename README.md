@@ -1,7 +1,9 @@
 truecrypt
 =========
 
-Scripts for use with truecrypt
+This respository is no longer maintained but kept for historical reasons. A fork of this project has moved to https://github.com/dannytsang/veracrypt
+
+Scripts for use with truecrypt.
 
 Pre-Requisite
 =============
